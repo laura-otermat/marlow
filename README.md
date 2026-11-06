@@ -20,6 +20,8 @@ doing this week?"
 > This is a public snapshot of a personal project, shared to show how it is
 > built. It is not maintained as an open-source product.
 
+The web client lives in [marlow-ui](https://github.com/laura-otermat/marlow-ui), a React and TypeScript app that signs users in with Supabase Auth and calls this API.
+
 ## What it does
 
 | Endpoint | Purpose |
